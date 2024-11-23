@@ -10,6 +10,8 @@ public class PROFcode : MonoBehaviour
 
     void Start()
     {
+
+       int life;
        int playerLives=3;
 
        while(playerLives>0)
