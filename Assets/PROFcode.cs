@@ -12,6 +12,7 @@ public class PROFcode : MonoBehaviour
     {
 
        int life;
+       int dead;
        int playerLives=3;
 
        while(playerLives>0)
